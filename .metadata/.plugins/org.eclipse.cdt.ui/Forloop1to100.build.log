@@ -1,0 +1,7 @@
+19:45:24 **** Rebuild of configuration Debug for project Forloop1to100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Forloop1to100.o" "..\\src\\Forloop1to100.c" 
+gcc -o Forloop1to100.exe "src\\Forloop1to100.o" 
+
+19:45:25 Build Finished. 0 errors, 0 warnings. (took 554ms)
+

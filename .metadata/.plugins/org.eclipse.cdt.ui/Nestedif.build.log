@@ -1,0 +1,7 @@
+19:45:27 **** Rebuild of configuration Debug for project Nestedif ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Nestedif.o" "..\\src\\Nestedif.c" 
+gcc -o Nestedif.exe "src\\Nestedif.o" 
+
+19:45:27 Build Finished. 0 errors, 0 warnings. (took 321ms)
+

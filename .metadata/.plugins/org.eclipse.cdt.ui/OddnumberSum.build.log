@@ -1,0 +1,7 @@
+19:45:27 **** Rebuild of configuration Debug for project OddnumberSum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\OddnumberSum.o" "..\\src\\OddnumberSum.c" 
+gcc -o OddnumberSum.exe "src\\OddnumberSum.o" 
+
+19:45:28 Build Finished. 0 errors, 0 warnings. (took 581ms)
+

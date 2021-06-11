@@ -1,0 +1,7 @@
+20:50:18 **** Incremental Build of configuration Debug for project SearchinArray ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SearchinArray.o" "..\\src\\SearchinArray.c" 
+gcc -o SearchinArray.exe "src\\SearchinArray.o" 
+
+20:50:18 Build Finished. 0 errors, 0 warnings. (took 521ms)
+

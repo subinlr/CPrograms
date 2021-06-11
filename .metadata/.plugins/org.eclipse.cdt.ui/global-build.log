@@ -1,0 +1,21 @@
+20:41:53 **** Rebuild of configuration Debug for project MultydimensionalArray ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultydimensionalArray.o" "..\\src\\MultydimensionalArray.c" 
+gcc -o MultydimensionalArray.exe "src\\MultydimensionalArray.o" 
+Info: Nothing to build for MultydimensionalArray
+20:42:48 **** Incremental Build of configuration Debug for project MultydimensionalArray ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultydimensionalArray.o" "..\\src\\MultydimensionalArray.c" 
+gcc -o MultydimensionalArray.exe "src\\MultydimensionalArray.o" 
+20:43:23 **** Incremental Build of configuration Debug for project MultydimensionalArray ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultydimensionalArray.o" "..\\src\\MultydimensionalArray.c" 
+gcc -o MultydimensionalArray.exe "src\\MultydimensionalArray.o" 
+12:20:44 **** Rebuild of configuration Debug for project MultiplicationTableAssai ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiplicationTableAssai.o" "..\\src\\MultiplicationTableAssai.c" 
+gcc -o MultiplicationTableAssai.exe "src\\MultiplicationTableAssai.o" 
+12:22:37 **** Rebuild of configuration Debug for project MultydimensionalArray ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultydimensionalArray.o" "..\\src\\MultydimensionalArray.c" 
+gcc -o MultydimensionalArray.exe "src\\MultydimensionalArray.o" 

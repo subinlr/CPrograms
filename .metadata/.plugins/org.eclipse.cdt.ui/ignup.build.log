@@ -1,0 +1,7 @@
+19:45:36 **** Rebuild of configuration Debug for project ignup ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ignup.o" "..\\src\\ignup.c" 
+gcc -o ignup.exe "src\\ignup.o" 
+
+19:45:37 Build Finished. 0 errors, 0 warnings. (took 525ms)
+

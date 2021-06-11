@@ -1,0 +1,7 @@
+19:45:21 **** Rebuild of configuration Debug for project ArraySun ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ArraySun.o" "..\\src\\ArraySun.c" 
+gcc -o ArraySun.exe "src\\ArraySun.o" 
+
+19:45:22 Build Finished. 0 errors, 0 warnings. (took 611ms)
+

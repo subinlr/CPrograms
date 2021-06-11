@@ -1,0 +1,7 @@
+19:45:33 **** Rebuild of configuration Debug for project SumofNnumbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SumofNnumbers.o" "..\\src\\SumofNnumbers.c" 
+gcc -o SumofNnumbers.exe "src\\SumofNnumbers.o" 
+
+19:45:34 Build Finished. 0 errors, 0 warnings. (took 507ms)
+

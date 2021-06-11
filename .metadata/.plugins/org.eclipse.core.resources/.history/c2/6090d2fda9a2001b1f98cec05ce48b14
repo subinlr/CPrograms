@@ -1,0 +1,22 @@
+/*
+ ============================================================================
+ Name        : Signup.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	char email,name;
+	int password;
+	printf("SIGNUP");
+	printf("enter email");
+	fflush(stdout);
+	scanf("%c",email);
+	return EXIT_SUCCESS;
+}

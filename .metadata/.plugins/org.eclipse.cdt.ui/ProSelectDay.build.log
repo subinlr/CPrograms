@@ -1,0 +1,7 @@
+19:45:30 **** Rebuild of configuration Debug for project ProSelectDay ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ProSelectDay.o" "..\\src\\ProSelectDay.c" 
+gcc -o ProSelectDay.exe "src\\ProSelectDay.o" 
+
+19:45:31 Build Finished. 0 errors, 0 warnings. (took 579ms)
+
